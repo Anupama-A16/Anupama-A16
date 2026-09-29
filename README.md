@@ -5,7 +5,7 @@
 <img align="right"
      alt="Girl Coding"
      width="350"
-     src="images/girl-coding.png">
+     src="girl-coding.png">
      
 - 👯 I'm looking to collaborate on **Cloud Computing, DevOps, Python, AI/ML and Open Source projects**
 
